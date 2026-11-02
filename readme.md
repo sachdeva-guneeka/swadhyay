@@ -4,7 +4,7 @@
 
 Swadhyay is a gamified quiz platform for students of class 9 to 12 (CBSE, JEE, NEET, CUET). Students earn points and streaks by solving quizzes, and earn double points by creating quizzes that other students learn from.
 
-- Hackathon track: Education, Learning and Gamified Learning
+- Hackathon track: Open-Innovation
 - Team: Binary Bizarre
 - Live prototype: https://sachdeva-guneeka.github.io/swadhyay/
 ## The problem
